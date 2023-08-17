@@ -1,5 +1,5 @@
-# Getting Started
-# aws devops course
+# Getting Started aws course started
+
 
 ### Reference Documentation
 For further reference, please consider the following sections:
